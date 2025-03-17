@@ -1,4 +1,4 @@
-# Persuasion-eLearning -This Repo holds: Instructional Design, Adult Learning, eLearning Courseware Development, Automation, Computer Programming for eLearning courses on Persuasion in Digital Media. 
+# Persuasion-eLearning -This Repo holds: Instructional Design, Adult Learning, eLearning Courseware Development, Automation and Computer Programming for eLearning courses on Persuasion in Digital Media. 
 -
 - Planning and Design Documents for the eLearning Course.
 - SCORM, xAPI and simular content packages, log files and metadata files.
